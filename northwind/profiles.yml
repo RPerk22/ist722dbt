@@ -7,7 +7,7 @@ user:
       connect_retries: 3
       connect_timeout: 30
       database: DEMO_DB
-      password: CocoaBeach!2225
+      password: CocoaBeach!2226
       retry_on_database_errors: true
       role: null
       schema: dbt_rperk22
